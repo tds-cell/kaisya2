@@ -1,4 +1,5 @@
 from os.path import exists
+#なぜ使えない状態なのか不明
 import openpyxl
 import glob
 
